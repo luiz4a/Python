@@ -1,6 +1,5 @@
 import os 
 
- #Algoritimo: N�meros de 1 a 10
 def cabeçalho():
 	os.system("cls||clear")
 	print(f"===SENAI===")
